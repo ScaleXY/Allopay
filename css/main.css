@@ -30,8 +30,16 @@ header {
 
 
 .allo-green {
-
 	color: #37B34A;
+	font-style: italic;
+
+	font-family: "Hell", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, "Roboto",  Arial, "Lucida Grande", sans-serif;
+}
+.allo-white {
+	color: #000000;
+	font-style: normal;
+	
+	font-family: "Hell", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, "Roboto",  Arial, "Lucida Grande", sans-serif;
 }
 
 .text-white {
@@ -220,7 +228,7 @@ p {
 
 .logo span {
 
-	font-style: italic;
+
 }
 
 .no-shadow {
