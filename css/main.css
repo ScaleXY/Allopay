@@ -4,6 +4,10 @@
 body {
 
 	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, "Roboto",  Arial, "Lucida Grande", sans-serif;
+
+}
+@font-face {
+    font-family : "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica;
 	src: url("fonts/hel_neua.ttf")
 }
 
