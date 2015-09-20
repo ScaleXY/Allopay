@@ -1,14 +1,14 @@
 /** Allopay Validation Website CSS **/
 
+@font-face {
+    	font-family : "hell";
+	src: url("../fonts/hel_neua.ttf")
+}
 
 body {
 
 	font-family: "Hell", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, "Roboto",  Arial, "Lucida Grande", sans-serif;
 
-}
-@font-face {
-    	font-family : "hell";
-	src: url("fonts/hel_neua.ttf")
 }
 
 header {
