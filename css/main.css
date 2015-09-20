@@ -3,7 +3,7 @@
 
 body {
 
-	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Roboto,  Arial, "Lucida Grande", sans-serif;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, "Roboto",  Arial, "Lucida Grande", sans-serif;
 }
 
 header {
@@ -264,7 +264,12 @@ p {
 	max-width: 45%;
 }
 
-
+.benefits-icon {
+	width: 47px;  
+	height: 47px;
+	margin-right: 27px;
+	margin-left: 0;
+}
 .benefit:hover {
 
 	background: #F4F5F5 none repeat scroll 0% 0%;
