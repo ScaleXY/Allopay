@@ -2,7 +2,8 @@
 
 <?php
 
-phpinfo();
+print("nkjhkj");
+echo "hello";
 
 ?>
 
