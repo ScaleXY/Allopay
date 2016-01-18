@@ -2,8 +2,7 @@
 
 <?php
 
-print("nkjhkj");
-echo "hello";
+print($_GET['a'] + $_GET['b']);
 
 ?>
 
